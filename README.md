@@ -1,6 +1,6 @@
 # Hi, I'm Lorena 👋
 
-💻 Frontend Developer in progress
+💻 Frontend Developer 
 
 I am learning web development and building projects to improve my programming skills.
 
@@ -29,5 +29,5 @@ Here you can find my web development projects and my learning journey.
 
 ## 📫 Contact
 
-- Portfolio: Coming soon
+- Portfolio:https://lorena-vanegas.github.io/Lorena-vanegas-portafolio/
   
