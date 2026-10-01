@@ -23,6 +23,8 @@ Frontend
 Tools
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"> </p>
 
+
+
 🚀 Featured Projects
 💈 Barbería Elite
 <p align="center"> <a href="https://lorena-vanegas.github.io/peluqueria-website/"> <img src="https://img.shields.io/badge/💈%20Barbería%20Elite-View%20Project-8B5CF6?style=for-the-badge" alt="Barbería Elite"> </a> <a href="https://github.com/lorena-vanegas/peluqueria-website"> <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"> </a> </p>
