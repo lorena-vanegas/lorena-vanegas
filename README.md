@@ -1,1 +1,2 @@
-<p align="center"> <img src="logo-lorena.png" alt="Lorena"> </p>
+<p align="center">  </p>
+<img src="logo-lorena.png" alt="Lorena">
