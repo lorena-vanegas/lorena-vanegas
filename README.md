@@ -2,13 +2,16 @@
 <p align="center">  </p>
  <img width="1600" height="791" alt="logo-lorena " src="https://github.com/user-attachments/assets/aa60f74b-9746-4f0a-ab94-462f2ec8b7af" />
 <p align="center"> <a href="https://www.tiktok.com/@lorena.dev"> <img src="https://img.shields.io/badge/TikTok-@lorena.dev-white?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok"> </a> &nbsp; <a href="https://www.instagram.com/lorenadeveloper"> <img src="https://img.shields.io/badge/Instagram-@lorenadeveloper-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"> </a> &nbsp; <a href="https://www.linkedin.com/in/caren-lorena-vanegas-arroyave/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"> </a> &nbsp; <a href="https://lorena-vanegas.github.io/Lorena-vanegas-portafolio/"> <img src="https://img.shields.io/badge/Portfolio-Visit-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"> </a> </p>
- About Me
 
-I'm a Frontend Developer focused on building modern and functional web experiences.
+## About Me
 
-I enjoy solving problems, turning ideas into real websites, and learning by building practical projects. I'm currently deepening my JavaScript skills and working on a business management system as I prepare to move into a frontend framework.
+I'm a Frontend Developer passionate about turning ideas into functional and engaging web experiences. I enjoy solving problems, building things from scratch, and finding ways to make technology useful in the real world.
 
-I'm building my career as a developer through real projects, continuous learning, and sharing my journey along the way.
+I started my programming journey in 2023 and earned a technical degree in Software Programming. Since then, I've been continuously learning and developing my skills through practical projects. I'm currently strengthening my JavaScript skills and working on a business management system as I prepare to move into a frontend framework.
+
+I'm building my career as a developer one project at a time, while also sharing my journey as a content creator. My goal is to keep growing, build meaningful products, and eventually work as a professional developer.
+
+
 
 
  
