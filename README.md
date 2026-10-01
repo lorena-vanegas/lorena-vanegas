@@ -11,6 +11,13 @@ I started my programming journey in 2023 and earned a technical degree in Softwa
 
 I'm building my career as a developer one project at a time, while also sharing my journey as a content creator. My goal is to keep growing, build meaningful products, and eventually work as a professional developer.
 
+## 🚧 Currently Building
+
+I'm currently building a **business management system** designed to help businesses organize and manage their day-to-day operations from one place.
+
+I'm developing it step by step while strengthening my skills in **React, TypeScript, and modern frontend development**.
+
+
 
 
 
