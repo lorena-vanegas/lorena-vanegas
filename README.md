@@ -29,8 +29,7 @@ Tools
 🏨 Hotel El Edén
 <p align="center"> <a href="https://lorena-vanegas.github.io/hotel-el-eden/"> <img src="https://img.shields.io/badge/🏨%20Hotel%20El%20Edén-View%20Project-8B5CF6?style=for-the-badge" alt="Hotel El Edén"> </a> <a href="https://github.com/lorena-vanegas/hotel-el-eden"> <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"> </a> </p>
 📝 Notes App
-<p align="center"> <img src="https://img.shields.io/badge/📝%20Notes%20App-Database%20Project-8B5CF6?style=for-the-badge" alt="Notes App"> <a href="https://github.com/lorena-vanegas/sistema-gestion-notas"> <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"> </a> </p>
-
+<p align="center"> <a href="https://github.com/lorena-vanegas/sistema-gestion-notas"> <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"> </a> </p>
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lorena-vanegas&show_icons=true&theme=dark&hide_border=true" alt="Lorena's GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-vanegas&layout=compact&theme=dark&hide_border=true" alt="Top Languages"> </p>
